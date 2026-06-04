@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-THO6FK17_SQLEXPRESS.Northwind_Stage"
+  DTS:DTSID="{BE081A41-7195-47AE-AFA7-C8CE6625CB19}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LAPTOP-THO6FK17\SQLEXPRESS;Initial Catalog=Northwind_Stage;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-MoralesDurand-{BE081A41-7195-47AE-AFA7-C8CE6625CB19}LAPTOP-THO6FK17\SQLEXPRESS.Northwind_Stage;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
